@@ -60,7 +60,7 @@ cd College-Alumni-Network
 ```
 cd alumni-backend
 npm install
-npm start
+npm run dev
 ```
 
 ---
@@ -70,7 +70,7 @@ npm start
 ```
 cd client
 npm install
-npm start
+npm run dev
 ```
 
 ---
